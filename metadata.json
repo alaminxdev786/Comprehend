@@ -1,0 +1,6 @@
+{
+  "name": "Comprehend",
+  "description": "All-in-one Bengali-first educational and utility super app for Bangladesh: BCS exam prep, Spoken English, Bengali and Islamic prayer calendar, kids education, and everyday calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
